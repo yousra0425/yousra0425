@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <div align="center">
 
 <img src="assets/banner.svg" alt="Yousra Amami — AI & Data Science / Data Engineering" width="100%" />
