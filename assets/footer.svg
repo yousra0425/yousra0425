@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 144" width="1200" height="144" role="img" aria-label="Midnight blush waving footer">
+<style>@keyframes wave{0%,100%{transform:translateY(0)}50%{transform:translateY(5px)}}.w{animation:wave 7s ease-in-out infinite}@media(prefers-reduced-motion:reduce){.w{animation:none}}</style>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#141D3C"/><stop offset=".5" stop-color="#F4A9CA"/><stop offset="1" stop-color="#2C3558"/></linearGradient></defs>
+<path class="w" d="M0 73 C160 5 294 120 455 76 C595 37 721 13 852 66 C977 116 1072 54 1200 31 V144 H0Z" fill="url(#g)" opacity=".9"/>
+<path d="M0 116 C210 62 296 143 492 110 S905 82 1200 120 V144 H0Z" fill="#11182F" opacity=".85"/>
+<text x="600" y="128" text-anchor="middle" font-family="DejaVu Sans Mono,monospace" font-size="15" fill="#F6F3FB" opacity=".93">made with curiosity &amp; a little pink</text>
+</svg>
